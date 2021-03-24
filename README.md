@@ -1,0 +1,2 @@
+# JavaScript : JSON, AJAX et les requêtes asynchrones
+Avec Julien Moulin, découvrez les technologies asynchrones mises en œuvre dans le développement en JavaScript. Dans cette formation qui s'adresse aux développeurs web, vous assimilerez les notions indispensables d'échange de données au sein d'AJAX ou avec des librairies répandues comme jQuery. Au terme de cette formation, les techniques d'applications et les API web single-page n'auront plus de secret pour vous.
